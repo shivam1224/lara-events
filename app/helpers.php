@@ -1,0 +1,5 @@
+<?php
+
+function arrayToObject($arr){
+
+}
